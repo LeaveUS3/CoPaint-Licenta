@@ -1,0 +1,14 @@
+numpy==1.23
+pandas==1.5
+tqdm
+pyYaml
+pillow
+filelock
+joblib
+gitpython
+gdown
+lpips
+blobfile
+lxml
+opencv-python==4.7.0.72
+unzip
